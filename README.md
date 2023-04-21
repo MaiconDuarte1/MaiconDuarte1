@@ -1,5 +1,10 @@
 ### Oi, meu nome é Maicon 👋
-Desenvolvedor Python e Técnico Em Informática.
+**Desenvolvedor Python e Técnico Em Informática.**
+##
+- 💻 Desenvolvedor Full Stack.
+- 🐍 Tenho Python Como Linguagem Principal.
+- 🔧 Técnico Em Montagem E Manutenção De Computadores.
+- 🎥 Criador De Conteúdo No Youtube.
 
 <div>
   <a href="https://github.com/MaiconDuarte1">
